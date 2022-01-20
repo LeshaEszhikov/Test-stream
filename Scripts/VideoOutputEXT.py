@@ -6,4 +6,3 @@ class VideoOutputEXT:
 		# The component to which this extension is attached
 		self.ownerComp = ownerComp
 		self.projectorNobel = "Benq mw720"
-		
